@@ -1,4 +1,4 @@
-# 📙 Conceptzine-renewal
+# 📙 Conceptzine renewal
 > 당신의 일상이 조금 더 아름다워집니다, conceptzine renewal
 
 ![project_intro](https://user-images.githubusercontent.com/81145387/132236419-95f3fd6f-a493-4622-a755-0c104ef5952f.gif)
